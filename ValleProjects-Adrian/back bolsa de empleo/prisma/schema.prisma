@@ -1,0 +1,90 @@
+// This is your Prisma schema file
+// Learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Using SQLite as the database provider
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// Modelo de roles
+model Role {
+  id   Int    @id @default(autoincrement())
+  name String // Nombre del rol (ej. usuario, empresa, administrador)
+
+  usuarios UsuarioInfo[] // Relación con UsuarioInfo
+  Empresa  Empresa[]
+
+  @@map("roles") // Nombre de la tabla
+}
+
+// Modelo de Usuario
+model UsuarioInfo {
+  id                Int      @id @default(autoincrement())
+  primerNombre      String
+  segundoNombre     String?
+  primerApellido    String
+  segundoApellido   String?
+  tipoDocumento     String
+  numeroDocumento   String
+  correoElectronico String   @unique
+  contrasena        String
+  fechaCreacion     DateTime @default(now())
+
+  // Relación con el modelo Role
+  roleId    Int
+  role      Role        @relation(fields: [roleId], references: [id])
+  Solicitud Solicitud[]
+
+  @@index([numeroDocumento], name: "idx_numero_documento")
+  @@index([correoElectronico], name: "idx_correo_electronico")
+}
+
+// Modelo de Empresa
+model Empresa {
+  id            Int    @id @default(autoincrement())
+  email         String @unique
+  password      String
+  razonSocial   String
+  nit           String @unique
+  sector        String
+  telefono      String
+  nombreEmpresa String
+  ubicacion     String
+
+  roleId Int
+  role   Role @relation(fields: [roleId], references: [id])
+
+  @@map("empresas")
+}
+
+// Modelo de Trabajo (Job)
+model Job {
+  id            Int      @id @default(autoincrement())
+  title         String
+  description   String
+  company       String
+  location      String
+  fechaCreacion DateTime @default(now())
+
+  // Relación con las solicitudes de trabajo
+  solicitudes Solicitud[]
+
+  @@map("jobs")
+}
+
+// Modelo de Solicitud (Solicitud de trabajo)
+model Solicitud {
+  id     Int         @id @default(autoincrement())
+  jobId  Int
+  job    Job         @relation(fields: [jobId], references: [id])
+  userId Int
+  user   UsuarioInfo @relation(fields: [userId], references: [id])
+  fecha  DateTime    @default(now())
+
+  @@map("solicitudes")
+}

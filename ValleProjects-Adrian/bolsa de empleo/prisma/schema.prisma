@@ -1,0 +1,41 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+model UsuarioInfo {
+  id                       Int      @id @default(autoincrement()) // Identificador único de cada usuario
+  primerNombre             String   @db.VarChar(100) // Primer nombre
+  segundoNombre            String?  @db.VarChar(100) // Segundo nombre (opcional)
+  primerApellido           String   @db.VarChar(100) // Primer apellido
+  segundoApellido          String?  @db.VarChar(100) // Segundo apellido (opcional)
+  tipoDocumento            String   @db.VarChar(50) // Tipo de documento
+  numeroDocumento          String   @db.VarChar(50) // Número de documento
+  correoElectronico        String   @db.VarChar(255) // Correo electrónico
+  contrasena               String   @db.VarChar(255) // Contraseña
+  fechaCreacion            DateTime @default(now()) // Fecha de creación del usuario
+
+  @@index([numeroDocumento], name: "idx_numero_documento") // Opcional: índice único para número de documento
+  @@index([correoElectronico], name: "idx_correo_electronico") // Opcional: índice único para correo electrónico
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Role {
+  id   Int    @id @default(autoincrement()) @map("role_id") // Clave primaria con autoincremento
+  name String @map("role_name") @db.VarChar(50) // Columna "role_name"
+
+  // rol usuario 1
+  // rol administrador 2
+  // rol empresa 3
+
+  @@map("roles") // Nombre de la tabla
+}

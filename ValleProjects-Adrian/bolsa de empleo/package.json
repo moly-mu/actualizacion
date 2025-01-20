@@ -1,0 +1,30 @@
+{
+  "name": "bolsa-de-empleo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "bunx run --watch src/index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "consultorio del valle del software",
+    "author": "los del valle"
+  },
+  "license": "ISC",
+  "description": "aprendiendo",
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-validator": "^7.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "prisma": "^5.22.0"
+  }
+}

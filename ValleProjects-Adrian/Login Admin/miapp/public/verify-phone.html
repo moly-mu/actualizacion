@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Verificación de teléfono</title>
+</head>
+<body>
+  <h2>Verificación de teléfono</h2>
+  <p>Ingresa tu número de teléfono para recibir un código de verificación:</p>
+  
+  <!-- Sección para ingresar el número de teléfono -->
+  <div id="phoneSection">
+    <input type="text" id="phoneNumber" placeholder="+1234567890" />
+    <button id="sendVerificationCode">Enviar código</button>
+  </div>
+  
+  <!-- Sección para ingresar el código de verificación (oculta inicialmente) -->
+  <div id="verificationSection" style="display:none;">
+    <input type="text" id="verificationCode" placeholder="Código de verificación" />
+    <button id="verifyCode">Verificar código</button>
+  </div>
+
+  <!-- Contenedor reCAPTCHA invisible -->
+  <div id="verification"></div>
+  
+  <!-- Scripts de Firebase -->
+  <script type="module" src="/js/verify-phone.js"></script>
+</body>
+</html>

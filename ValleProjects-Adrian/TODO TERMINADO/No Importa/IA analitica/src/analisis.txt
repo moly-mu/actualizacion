@@ -1,0 +1,162 @@
+Evaluando CV: Curriculum  - Darian molina.txt
+
+Trabajo: Interventor profesional iii - Relevancia: No
+Razonamiento: No.
+
+El trabajo de "Interventor profesional III" requiere un profesional en carreras administrativas o afines, así como una experiencia general de 6 años y experiencia específica mínima de 1 año, preferiblemente en el sector Oil & Gas. El currículum del usuario indica que es estudiante de Ingeniería de Software y tiene poco más de un año de experiencia en programación y desarrollo de software, lo cual no es relevante para el puesto mencionado.
+
+Además, la oferta de trabajo no parece alinearse con el perfil técnico y la educación del usuario, que se centra en el desarrollo de software y no en un rol administrativo ni en el sector mencionado. Por lo tanto, este trabajo no es relevante para el currículum proporcionado.
+
+Trabajo: Arquitecto de integraciones cloud - Relevancia: No
+Razonamiento: No.
+
+El trabajo de Arquitecto de Integraciones Cloud requiere más de 5 años de experiencia en roles similares, así como conocimientos avanzados en tecnologías específicas como Google Cloud Platform, Kubernetes y lenguajes de programación como Go. Además, se requieren certificaciones específicas en GCP y experiencia con herramientas de prueba y protocolos de seguridad, que no se mencionan en el currículum del usuario.
+
+El currículum presentado refleja un perfil de estudiante en Ingeniería de Software con menos de un año de experiencia y habilidades básicas en programación y desarrollo, lo que no se alinea con los requisitos avanzados del puesto. Por lo tanto, no es un trabajo relevante para el currículum actual.
+
+Trabajo: Analista documentador de procesos (banca) - Relevancia: No
+Razonamiento: No.
+
+El trabajo de Analista documentador de procesos en banca requiere una formación específica en Ingeniería Industrial, así como experiencia en levantamiento, análisis y elaboración de documentación de procesos, lo cual no se menciona en el currículum del usuario. Además, aunque el usuario tiene experiencia en metodologías ágiles, su enfoque está más orientado al desarrollo de software, específicamente en programación y desarrollo front-end, lo que no se alinea con las responsabilidades del puesto. Por lo tanto, la falta de requisitos adecuados y la discrepancia en las áreas de especialización hacen que este trabajo no sea relevante para el currículum presentado.
+
+Trabajo: Offer manager for business solutions senior. - Relevancia: No
+Razonamiento: No.
+
+El trabajo de "Offer manager for business solutions senior" requiere un título universitario en Ciencias de la Computación, Administración de Empresas o un campo relacionado, así como más de 10 años de experiencia en el sector de servicios/productos de TI, y más de 5 años en gestión de ofertas o áreas relacionadas en el dominio de servicios de TI o consultoría. Además, se requiere experiencia en el lanzamiento de nuevos servicios o productos tecnológicos y habilidades avanzadas en gestión de proyectos y liderazgo.
+
+El currículum presentado muestra que el usuario es un estudiante de Ingeniería de Software con solo un año de experiencia y está buscando oportunidades de aprendizaje en desarrollo de software, lo que indica que no cumple con los requisitos de experiencia y nivel de puesto necesarios para esta oferta. Por lo tanto, el trabajo no es relevante para el currículum.
+
+Trabajo: Quality engineer (tester) conocimiento contable. - Relevancia: Sí
+Razonamiento: **Sí**, este trabajo es relevante para el currículum.
+
+**Razonamiento:**
+
+1. **Experiencia en Pruebas de Software:** Aunque el CV del usuario no menciona experiencia específica en pruebas de software, su formación en Ingeniería de Software y su participación en proyectos indican que tiene una base técnica que podría ser valiosa para aprender y aplicar las técnicas de pruebas necesarias para el puesto de Quality Engineer.
+
+2. **Conocimientos Técnicos:** El usuario tiene habilidades en lenguajes de programación como JavaScript, HTML y SQL, que son relevantes en el contexto de la integración de sistemas y pruebas de software. Aunque no menciona JIRA o certificación ISTQB, su deseo de aprender y su experiencia en proyectos demuestran un potencial para adquirir estas habilidades.
+
+3. **Trabajo en Equipo y Resolución de Problemas:** Las habilidades blandas del usuario, como la comunicación efectiva, el liderazgo y la resolución de problemas, son altamente valoradas en un rol de QA, donde la colaboración con diferentes equipos es crucial.
+
+4. **Adaptabilidad y Proactividad:** La adaptabilidad mencionada en su CV es un aspecto importante en un entorno de QA, donde los requisitos pueden cambiar y se necesita una actitud proactiva para abordar problemas.
+
+En conclusión, aunque hay algunas debilidades en términos de experiencia específica en pruebas de software y herramientas requeridas, el usuario tiene un perfil que puede ser entrenado y adaptado para cumplir con las demandas del puesto, lo que lo hace relevante para esta oportunidad laboral.
+
+Trabajo: Diseñador instruccional - Relevancia: No
+Razonamiento: No.
+
+El trabajo de Diseñador Instruccional parece no ser relevante para el currículum presentado. Aunque el usuario tiene experiencia en docencia y habilidades en comunicación efectiva, el enfoque del puesto está más orientado hacia el desarrollo de contenido educativo y la asesoría sobre actividades evaluativas, que no se alinean directamente con las habilidades técnicas en programación y desarrollo de software que el usuario ha desarrollado. Además, el currículum se centra en la ingeniería de software y las capacidades técnicas, mientras que este trabajo requiere conocimientos específicos en modelos curriculares y manejo de herramientas tecnológicas relacionadas con la educación, lo que no parece estar presente en el perfil del usuario.
+
+Trabajo: Docente medio tiempo / mercadeo - Relevancia: No
+Razonamiento: No.
+
+El trabajo de Docente medio tiempo en mercadeo no es relevante para el currículum presentado. Aunque el usuario tiene habilidades en trabajo en equipo y comunicación efectiva, que son importantes para la docencia, no cumple con los requisitos específicos del puesto, como la especialización o maestría en áreas afines al mercadeo, así como la experiencia docente en educación superior, preferiblemente en modalidad virtual. Además, el currículum se centra en el desarrollo de software y no menciona experiencia o formación en mercadeo, lo que hace que este trabajo no sea compatible con su perfil.
+
+Trabajo: Analista de soporte de operaciones - vacaciones - bogotá - Relevancia: No
+Razonamiento: No.
+
+El trabajo de "Analista de soporte de operaciones" se centra en la gestión de facturación, conciliación de pagos y administración de proveedores, lo que está más relacionado con áreas administrativas y financieras. El perfil del usuario es de un estudiante de Ingeniería de Software con experiencia en programación y desarrollo de software, lo que sugiere que sus habilidades y experiencia están más alineadas con roles técnicos y de desarrollo. Además, los requisitos del cargo especifican un título en Administración de Empresas o áreas afines, lo que no coincide con la formación del usuario en ingeniería de software. Por lo tanto, este trabajo no es relevante para el currículum presentado.
+
+Trabajo: Docente medio tiempo / contaduría pública - Relevancia: No
+Razonamiento: No.
+
+El trabajo de docente de medio tiempo en contaduría pública no es relevante para el currículum presentado. El currículum se centra en la Ingeniería de Software, con experiencia y habilidades en lenguajes de programación, desarrollo de software y trabajo en equipo, mientras que la oferta de trabajo requiere un profesional en Contaduría Pública con especialización y experiencia docente en esa área específica. Además, el candidato es estudiante de Ingeniería de Software y no menciona experiencia o formación en contaduría, lo que hace que este trabajo no se alinee con su perfil profesional.
+
+Trabajo: Sre (site reliavility engineer) / billingue - Relevancia: No
+Razonamiento: No.
+
+El trabajo de SRE (Site Reliability Engineer) requiere habilidades y experiencia en áreas específicas que no están completamente alineadas con el perfil del usuario. Aunque el usuario tiene experiencia en lenguajes de programación como Java y Python, no menciona experiencia en la gestión de incidentes, optimización de sistemas, o en herramientas específicas como Docker, Kubernetes, Ansible, Terraform, entre otras, que son cruciales para el rol de SRE. Además, el puesto requiere experiencia en plataformas en la nube y manejo de redes, que no se evidencian en el currículum. Aunque el usuario es estudiante de Ingeniería de Software y tiene habilidades en programación, la falta de experiencia técnica específica en las áreas requeridas hace que esta oferta no sea relevante para su perfil actual.
+
+Trabajo: Docente medio tiempo / administración de empresas - Relevancia: No
+Razonamiento: **No.**
+
+El trabajo de "Docente medio tiempo / administración de empresas" en la Fundación Universitaria Católica del Norte no es relevante para el currículum presentado. Aunque el candidato tiene experiencia en programación y proyectos técnicos, el puesto requiere específicamente un profesional con especialización o maestría en áreas afines a la administración de empresas, así como experiencia docente en educación superior, preferiblemente en modalidad virtual. El currículum no menciona ninguna especialización en administración de empresas ni experiencia docente, lo que hace que la compatibilidad con esta oferta sea baja. Además, el enfoque del currículum es más técnico y orientado al desarrollo de software, lo que no se alinea con las necesidades del puesto docente mencionado.
+
+Trabajo: Fullstack (react/nest.js) engineer - Relevancia: No
+Razonamiento: No.
+
+El trabajo de Fullstack Engineer requiere al menos 3 años de experiencia en desarrollo de software, así como experiencia avanzada con React y un profundo conocimiento de NestJS, entre otras tecnologías. El currículum presentado muestra que el usuario es un estudiante de Ingeniería de Software con solo un año de experiencia en programación y conocimientos básicos en lenguajes como Python, además de no mencionar experiencia específica en React o NestJS.
+
+Además, se espera que el candidato tenga habilidades avanzadas en inglés (B2+-C1), lo cual no se menciona en el currículum.
+
+Por lo tanto, la falta de experiencia y conocimientos necesarios en las tecnologías requeridas hacen que este trabajo no sea relevante para el currículum presentado.
+
+Trabajo: Docente de ciencias ambientales - Relevancia: No
+Razonamiento: No.
+
+El currículum presentado corresponde a un estudiante de Ingeniería de Software con experiencia en desarrollo de software y habilidades técnicas en programación y gestión de bases de datos. Sin embargo, la oferta de trabajo es para un docente de Ciencias Ambientales, un campo que no está relacionado con la ingeniería de software. Además, la oferta requiere una especialización o maestría en áreas afines a las Ciencias Ambientales y experiencia docente en educación superior, lo cual no se menciona en el currículum. Por lo tanto, el perfil del candidato no coincide con los requisitos del trabajo ofrecido.
+
+Trabajo: N1 (monitorización) ciberseguridad - Relevancia: Sí
+Razonamiento: Sí, este trabajo es relevante para el currículum.
+
+Razonamiento:
+
+1. **Experiencia Requerida**: La oferta solicita un mínimo de 6 meses de experiencia en roles similares, y aunque el currículum menciona que el usuario tiene más de un año de experiencia en programación y proyectos, no especifica experiencia directa en soporte o ciberseguridad. Sin embargo, los conocimientos en Python (aunque sean básicos) son un punto a favor, ya que la oferta menciona que es relevante el conocimiento de scripting.
+
+2. **Conocimientos Técnicos**: La oferta requiere conocimientos en ciberseguridad, y aunque el currículum no menciona experiencia específica en este campo, el perfil de estudiante de Ingeniería de Software sugiere una base técnica que podría ser relevante. Además, se menciona que el usuario tiene experiencia en la gestión de bases de datos SQL y desarrollo front-end, lo cual puede ser útil en entornos de soporte técnico.
+
+3. **Habilidades**: El usuario posee habilidades blandas como liderazgo, comunicación efectiva y resolución de problemas, que son altamente valoradas en roles de soporte y monitorización.
+
+4. **Interés en Aprender**: El currículum expresa un deseo de seguir aprendiendo y de contribuir a proyectos innovadores, lo que puede alinearse con el ambiente de trabajo propuesto en la oferta, que se centra en la transformación digital.
+
+En resumen, aunque hay algunas áreas donde el candidato puede no cumplir completamente con los requisitos específicos, su experiencia en programación, habilidades blandas, y su deseo de aprender hacen que esta oferta de trabajo sea una opción relevante para él.
+
+Trabajo: N2 (monitorización de seguridad) ciberseguridad - Relevancia: No
+Razonamiento: No.
+
+El trabajo de N2 en ciberseguridad requiere una experiencia mínima de 2 años en un rol similar, así como conocimientos sólidos en gestión de incidentes, análisis forense, y herramientas específicas de ciberseguridad (como SIEM, EDR, y WAF), que no están presentes en el currículum del usuario. Además, se mencionan habilidades en scripting (Python y PowerShell) y administración de herramientas de ciberseguridad, áreas en las que el candidato solo tiene conocimientos básicos de Python y no se menciona experiencia en herramientas de ciberseguridad.
+
+El perfil del candidato es más adecuado para posiciones de desarrollo de software o roles de entrada en programación, en lugar de un puesto avanzado en ciberseguridad.
+
+Trabajo: Senior java cloud engineer - Relevancia: No
+Razonamiento: No.
+
+El trabajo de "Senior Java Cloud Engineer" requiere más de 6 años de experiencia en Java y herramientas de cloud, así como conocimientos avanzados en el uso de Java 11 o 17, Spring framework, CI/CD, y experiencia con bases de datos y sistemas de eventos como Kafka. El currículum presentado indica que el usuario es un estudiante de Ingeniería de Software con solo un año de experiencia en programación y conocimientos básicos en Python, lo que no cumple con los requisitos de experiencia ni con el nivel técnico demandado para el puesto. Además, el usuario aún está cursando su carrera, lo que sugiere que no ha alcanzado el nivel de seniority requerido para esta posición.
+
+Trabajo: Desarrollador backend/presencial - Relevancia: No
+Razonamiento: No.
+
+El trabajo de Desarrollador Backend requiere más de 3 años de experiencia y conocimientos específicos en tecnologías como Nest.js y TypeScript, que no están presentes en el currículum del usuario. Además, el usuario tiene solo un año de experiencia en programación y su enfoque se ha centrado más en el desarrollo front-end y en lenguajes más básicos, como Python. Las habilidades y la experiencia del usuario no cumplen con los requisitos indispensables mencionados en la oferta de trabajo, lo que hace que este puesto no sea relevante para su perfil.
+
+Trabajo: Desarrollador salesforce semi senior - Relevancia: No
+Razonamiento: No.
+
+El trabajo de Desarrollador Salesforce semi senior requiere una formación académica de profesional universitario graduado, así como certificaciones específicas en Salesforce. Además, se solicita experiencia laboral certificable de 4 años en desarrollo Salesforce, incluyendo dominio de Apex, Visualforce y Lightning Components. El currículum presentado indica que el usuario es un estudiante de Ingeniería de Software y tiene más de un año de experiencia en lenguajes de programación, pero no menciona experiencia específica con Salesforce ni las habilidades requeridas para este rol. Por lo tanto, las competencias y la experiencia del usuario no son compatibles con los requisitos del trabajo.
+
+Trabajo: Experto en servicio al cliente - Relevancia: No
+Razonamiento: No.
+
+La oferta de trabajo para el puesto de "Experto en servicio al cliente" requiere un profesional en Administración de empresas o afines, con una experiencia mínima de 5 años en actividades relacionadas con servicio al cliente y análisis de estrategia digital. El currículum presentado corresponde a un estudiante de Ingeniería de Software con un año de experiencia en programación y desarrollo de software, lo que no se alinea con los requisitos del trabajo. Además, no se menciona ninguna experiencia previa en servicio al cliente ni en administración, lo que hace que esta oferta no sea relevante para el perfil del usuario.
+
+Trabajo: Líder de marketing digital - Relevancia: No
+Razonamiento: No.
+
+El trabajo de Líder de Marketing Digital no es relevante para el currículum proporcionado. El currículum se centra en la formación y experiencia en Ingeniería de Software, con habilidades en programación y desarrollo de software, mientras que el trabajo requiere un perfil profesional en Marketing Digital o carreras afines como Publicidad o Comunicación Digital. Las competencias solicitadas para el puesto, como liderazgo en marketing y gestión de campañas publicitarias, no se alinean con la experiencia y habilidades técnicas del candidato en el ámbito del desarrollo de software.
+
+Trabajo: Consultor sap mm s/4hana proficient - Relevancia: No
+Razonamiento: No.
+
+El trabajo de Consultor SAP MM S/4HANA en Softtek no es relevante para el currículum presentado. Aunque el usuario tiene experiencia en programación y desarrollo de software, el puesto requiere más de 3 años de experiencia específica en servicios de soporte y mantenimiento de SAP, así como experiencia en proyectos de rollouts y servicios de AMS, que no se mencionan en el currículum. Además, el usuario tiene un nivel de inglés principiante, lo que puede ser un impedimento, ya que el puesto puede requerir habilidades comunicativas más avanzadas. Por lo tanto, las competencias y experiencias requeridas no coinciden con las del usuario.
+
+Trabajo: Representante de ventas para empresa de alquiler de yates (remoto - basado en colombia) - Relevancia: No
+Razonamiento: No.
+
+El trabajo de Representante de Ventas para una empresa de alquiler de yates no es relevante para el currículum presentado. El perfil del usuario se centra en el desarrollo de software, programación y habilidades técnicas, mientras que la oferta laboral está orientada hacia ventas, comunicación y habilidades comerciales. Además, el usuario no menciona experiencia previa en ventas, cierre de ventas o habilidades en comunicación en inglés, que son requisitos clave para el puesto. La falta de coincidencia en el área de especialización y en las habilidades requeridas hace que esta oferta no sea compatible con el perfil del usuario.
+
+Trabajo: Desarrollador con experiencia en .net y aws con ingles conversacional - remoto - Relevancia: No
+Razonamiento: No.
+
+El trabajo de Desarrollador Backend .NET con AWS requiere una experiencia mínima de 3 años en desarrollo .NET 3.1 o superior, así como conocimientos específicos en PostgreSQL, servicios RESTful y SOAP, patrones de diseño, pruebas unitarias, integración y despliegue continuo (CI/CD), y un dominio del inglés conversacional en nivel B2 o superior.
+
+El currículum presentado indica que el usuario es estudiante de Ingeniería de Software con más de un año de experiencia en programación, pero no menciona experiencia en .NET ni en AWS, que son requisitos clave para el puesto. Además, el nivel de inglés requerido (B2) no está especificado en el currículum. Por lo tanto, no es relevante para el perfil del usuario.
+
+Trabajo: Gestión técnica (g) - Relevancia: No
+Razonamiento: No.
+
+La oferta de trabajo busca un profesional con una experiencia de al menos 10 años en áreas específicas como la ingeniería mecánica, eléctrica, electromecánica, metalurgia, industrial, civil, sistemas o afines. Además, requiere experiencia en construcción y actualización de casos de negocio, así como experiencia secundaria en gestión de proyectos como Scrum Master o Product Owner, preferiblemente en el sector oil & gas.
+
+El currículum presentado corresponde a un estudiante de Ingeniería de Software con apenas un año de experiencia en programación y habilidades en desarrollo de software, pero no menciona experiencia en construcción, gestión de negocio o en el sector mencionado. Por lo tanto, no cumple con los requisitos mínimos de experiencia y áreas de especialización solicitados.
+
+
+Resumen para el CV: Curriculum  - Darian molina.txt
+Trabajos analizados: 24
+Trabajos relevantes (Relevancia "Sí"): 2

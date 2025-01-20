@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <base href=".">
+    <title>CV Estilo Harvard - Formulario</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.3/html2pdf.bundle.min.js"></script>
+    <script src="scripts/script.js"></script>
+</head>
+<body>
+    <div class="cv-container">
+        <div class="header">
+            <div class="tooltip">
+                <input type="text" placeholder="Tu Nombre Completo" id="fullName">
+                <span class="tooltiptext">Usa tu nombre completo de forma profesional</span>
+            </div>
+            <div class="contact-info">
+                <div class="tooltip">
+                    <input type="email" placeholder="correo@ejemplo.com" id="email">
+                    <span class="tooltiptext">Usa un correo profesional, preferiblemente basado en tu nombre</span>
+                </div>
+                <span>&#xb7;</span>
+                <div class="tooltip">
+                    <input type="tel" placeholder="+XX XXXXXXXXXX" id="phone">
+                    <span class="tooltiptext">Incluye tu código de país y número en formato internacional</span>
+                </div>
+                <span>&#xb7;</span>
+                <div class="tooltip">
+                    <input type="url" placeholder="enlace a tu portafolio/LinkedIn" id="portfolio">
+                    <span class="tooltiptext">Asegúrate de que el enlace esté actualizado y sea relevante</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Perfil Profesional</h2>
+            <textarea id="professionalProfile" placeholder="Describe tu perfil profesional en 2-3 líneas. Ejemplo: 'Profesional con X años de experiencia en [campo], especializado en [área específica]. Destaca por [logros principales] y busca [objetivo profesional].'"></textarea>
+        </div>
+
+        <div class="section">
+            <h2>Habilidades</h2>
+            <div class="skills-container">
+                <div class="skill-category">
+                    <h3>Habilidades Técnicas</h3>
+                    <div id="technicalSkills">
+                        <div class="skill-input">
+                            <input type="text" placeholder="Nueva habilidad técnica">
+                            <button class="delete-btn" onclick="this.parentElement.remove()">×</button>
+                        </div>
+                    </div>
+                    <button class="add-btn" onclick="addSkill('technicalSkills')">+ Agregar Habilidad Técnica</button>
+                </div>
+                <div class="skill-category">
+                    <h3>Habilidades Blandas</h3>
+                    <div id="softSkills">
+                        <div class="skill-input">
+                            <input type="text" placeholder="Nueva habilidad blanda">
+                            <button class="delete-btn" onclick="this.parentElement.remove()">×</button>
+                        </div>
+                    </div>
+                    <button class="add-btn" onclick="addSkill('softSkills')">+ Agregar Habilidad Blanda</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Experiencia Profesional</h2>
+            <div id="experience">
+                <div class="experience-item">
+                    <input type="text" placeholder="Cargo">
+                    <input type="text" placeholder="Empresa">
+                    <div class="date-range">
+                        <input type="date" placeholder="Fecha inicio" class="date-input">
+                        <span>-</span>
+                        <input type="date" placeholder="Fecha fin" class="date-input">
+                    </div>
+                    <textarea placeholder="• Describe tus logros cuantificables
+• Otro logro importante
+• Un logro más"></textarea>
+                    <button class="delete-btn" onclick="this.parentElement.remove()">×</button>
+                </div>
+            </div>
+            <button class="add-btn" onclick="addExperience()">+ Agregar Experiencia</button>
+        </div>
+
+        <div class="section">
+            <h2>Formación Académica</h2>
+            <div id="education">
+                <div class="education-item">
+                    <input type="text" placeholder="Título">
+                    <input type="text" placeholder="Institución">
+                    <div class="date-range">
+                        <input type="date" placeholder="Fecha inicio" class="date-input">
+                        <span>-</span>
+                        <input type="date" placeholder="Fecha fin" class="date-input">
+                    </div>
+                    <textarea placeholder="• Logro académico relevante
+• Proyecto destacado"></textarea>
+                    <button class="delete-btn" onclick="this.parentElement.remove()">×</button>
+                </div>
+            </div>
+            <button class="add-btn" onclick="addEducation()">+ Agregar Formación</button>
+        </div>
+
+        <div class="section">
+            <h2>Proyectos Destacados</h2>
+            <div id="projects">
+                <div class="experience-item">
+                    <input type="text" placeholder="Nombre del Proyecto">
+                    <textarea placeholder="• Descripción breve del proyecto
+• Tecnologías utilizadas
+• Resultados medibles"></textarea>
+                    <button class="delete-btn" onclick="this.parentElement.remove()">×</button>
+                </div>
+            </div>
+            <button class="add-btn" onclick="addProject()">+ Agregar Proyecto</button>
+        </div>
+
+        <div class="section">
+            <h2>Referencias</h2>
+            <div id="references">
+                <p id="defaultText">Disponibles bajo solicitud</p>
+                <div id="referencesList"></div>
+            </div>
+            <button class="add-btn" onclick="addReference()">+ Agregar Referencia</button>
+        </div>
+
+        <div class="button-container">
+            <button class="action-btn" onclick="showPreview()">Vista Previa</button>
+            <button class="action-btn" onclick="downloadPDF()">Descargar PDF</button>
+        </div>
+    </div>
+
+    <div class="preview-modal" id="previewModal">
+        <div class="preview-content">
+            <button class="close-preview" onclick="closePreview()">×</button>
+            <div id="previewContent"></div>
+        </div>
+    </div>
+</body>
+</html>

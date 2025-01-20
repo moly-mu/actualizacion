@@ -1,0 +1,56 @@
+{
+  "fullName": "asdasdasd",
+  "email": "asdasd",
+  "phone": "asdasd",
+  "portfolio": "sdasda",
+  "professionalProfile": "soy bueno en lo que hago",
+  "technicalSkills": [
+    "soy bueno trabajando en grupo"
+  ],
+  "softSkills": [
+    "soy malo trabajando solo"
+  ],
+  "experience": [
+    {
+      "position": "programador",
+      "company": "afafasf",
+      "startDate": "",
+      "endDate": "",
+      "description": "soy bueno en c++ front"
+    },
+    {
+      "position": "",
+      "company": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "bachiller",
+      "institution": "asasdasd",
+      "startDate": "",
+      "endDate": "",
+      "description": "fui el mejor de mi curso"
+    },
+    {
+      "degree": "",
+      "institution": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "proyecto IA",
+      "description": "se encarga de mejorar el cv de las personas"
+    },
+    {
+      "name": "",
+      "description": ""
+    }
+  ],
+  "references": []
+}
